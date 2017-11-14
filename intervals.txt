@@ -1,0 +1,210 @@
+>contig1
+0 250
+>contig2
+0 712
+>contig3
+0 233
+>contig4
+0 452
+>contig5
+0 13394
+>contig6
+0 5051
+>contig7
+0 3072
+>contig8
+0 1021
+>contig10
+0 11759
+>contig11
+0 13230
+>contig12
+0 74349
+>contig14
+0 107146
+>contig16
+0 78613
+>contig17
+0 49984
+>contig18
+0 41972
+>contig19
+0 74607
+>contig21
+0 207172
+>contig22
+0 19576
+>contig23
+0 97011
+>contig24
+0 16156
+>contig25
+0 27860
+>contig26
+0 271
+>contig27
+0 27534
+>contig28
+0 71640
+>contig29
+0 46936
+>contig30
+0 19585
+>contig31
+0 22434
+>contig32
+0 737
+>contig33
+0 2252
+>contig34
+0 10034
+>contig35
+0 21410
+>contig36
+0 48328
+>contig37
+0 8302
+>contig38
+0 125597
+>contig39
+0 446
+>contig40
+0 83025
+>contig41
+0 11141
+>contig42
+0 33582
+>contig43
+0 31120
+>contig44
+0 78461
+>contig45
+0 456634
+>contig46
+0 15522
+>contig47
+0 208823
+>contig48
+0 19403
+>contig49
+0 20112
+>contig50
+0 12039
+>contig51
+0 58265
+>contig52
+0 19132
+>contig53
+0 3640
+>contig54
+0 14735
+>contig69
+0 203
+>contig70
+0 204
+>contig71
+0 206
+>contig72
+0 211
+>contig73
+0 216
+>contig74
+0 221
+>contig75
+0 228
+>contig76
+0 233
+>contig77
+0 246
+>contig78
+0 249
+>contig79
+0 249
+>contig80
+0 264
+>contig81
+0 264
+>contig82
+0 296
+>contig83
+0 303
+>contig84
+0 307
+>contig85
+0 44371
+>contig86
+0 23877
+>contig87
+0 310
+>contig88
+0 332
+>contig89
+0 326
+>contig90
+0 475
+>contig91
+0 431
+>contig92
+0 510
+>contig93
+0 555
+>contig94
+0 593
+>contig95
+0 74855
+>contig96
+0 29336
+>contig97
+0 51152
+>contig98
+0 12439
+>contig99
+0 742
+>contig100
+0 1153
+>contig101
+0 1221
+>contig102
+0 1351
+>contig103
+0 1446
+>contig104
+0 90964
+>contig105
+0 1531
+>contig106
+0 2315
+>contig107
+0 1656
+>contig108
+0 3191
+>contig109
+0 4192
+>contig110
+0 7365
+>contig111
+0 5139
+>contig112
+0 9039
+>contig113
+0 9835
+>contig114
+0 22854
+>contig115
+0 246345
+>contig116
+0 508722
+>contig117
+0 191832
+>contig118
+0 380727
+>contig119
+0 52136
+>contig120
+0 52153
+>contig121
+0 606529
+>contig122
+0 567919
+>contig123
+0 20399

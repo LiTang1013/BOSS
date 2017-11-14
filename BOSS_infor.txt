@@ -1,0 +1,6 @@
+./boss /home/tangli/dataset/B.cereus/soap_ctg.fasta /home/tangli/dataset/B.cereus/trimmed/insert_600_1__cov100x.fastq /home/tangli/dataset/B.cereus/trimmed/insert_600_2__cov100x.fastq 101 180 0.07 0.2 2 1 0 /home/tangli/software/BOSS-test/test/B.cereus_corr_trimmed_soap 
+BOSS start time:Tue Nov 14 23:26:04 2017
+
+BOSS end time:Tue Nov 14 23:26:14 2017
+
+AllTime:10
